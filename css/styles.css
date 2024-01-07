@@ -1,4 +1,4 @@
-#main-nav ul  {
+#main-nav ul {
   text-decoration: none;
   position: absolute;
   top: -34px;
@@ -7,7 +7,7 @@
   font-size: 1.8em;
 }
 
-#center{
+#header a#logo1 img{
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
@@ -97,7 +97,7 @@ h2 strong {
   color: #ccc;
 }
 
- #header #toplink {
+ #header a#logo1 img{
   background-color: #ccc;
   color: #333;
 }
@@ -110,7 +110,7 @@ h2 strong {
 }
 
 
-#header #toplink {
+#main-nav ul li{
   float: left;
   position: relative;
   right: 50%;
