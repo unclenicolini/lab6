@@ -44,12 +44,12 @@
 }
 
 #content-wrapper {
-  background-image: url(".images/repeating.png");
+  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/lab6/images/repeating.png?raw=true");
   float: left;
 }
 
 #page-wrapper {
-  background-image: url(".images/black.png");
+  background-image: url("https://github.com/dkriegls/coursera/blob/main/labs/lab6/images/black.jpg?raw=true");
 }
 
 {
