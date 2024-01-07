@@ -13,7 +13,7 @@
   margin-bottom: 20px;
 }
 
-#header h1 {
+#header h1{
   position: absolute;
   left: 420px;
   top: 5px;
@@ -22,7 +22,8 @@
   color: #e35335;
 }
 
-#header {
+#header,
+#header a#logo1 img{
   position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;
