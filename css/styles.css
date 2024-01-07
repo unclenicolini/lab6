@@ -7,7 +7,7 @@
   font-size: 1.8em;
 }
 
-{
+#header a#logo1 img{
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
@@ -22,7 +22,7 @@
   color: #e35335;
 }
 
- {
+#header {
   position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;
@@ -76,7 +76,7 @@ h2 strong {
 
 
 
-{ 
+#side-content{ 
   min-height: 150px;
   width: 200px;
   float: left;
@@ -97,7 +97,7 @@ h2 strong {
   color: #ccc;
 }
 
- {
+ #header #toplink {
   background-color: #ccc;
   color: #333;
 }
@@ -110,7 +110,7 @@ h2 strong {
 }
 
 
-{
+#header #toplink {
   float: left;
   position: relative;
   right: 50%;
