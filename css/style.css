@@ -1,4 +1,4 @@
-{ text-decoration: none;
+h2 strong{ text-decoration: none;
 position: absolute;
 top:-34px;
 right: 10px;
@@ -9,7 +9,7 @@ font-size: 1.8em;}
 margin-left: 20px;
 margin-bottom: 20px;}
 
-#header h1{ position: absolute;
+header h1{ position: absolute;
 left: 420px;
 top:5px;
 font-size: 3em;
@@ -34,7 +34,7 @@ left:50%;}
 { background-image: url("../images/repeating.png");
 float: left;}
 
-#page-wrapper { background-image: url("../images/black.jpg"); }
+page-wrapper{ background-image: url("../images/black.jpg"); }
 
 { min-height: 300px;
 width: 715px;
