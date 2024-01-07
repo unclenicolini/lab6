@@ -1,4 +1,4 @@
-#main-nav ul {
+#main-nav ul, {
   text-decoration: none;
   position: absolute;
   top: -34px;
@@ -22,8 +22,7 @@
   color: #e35335;
 }
 
-#header,
-#header a#logo1 img{
+#header{
   position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;
@@ -91,7 +90,8 @@ h2 strong {
 }
 
 
-#main-nav ul li{
+#main-nav ul li,
+#header #toplink{
   padding: 10px 25px;
   display: block;
   text-decoration: none;
